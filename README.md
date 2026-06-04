@@ -1,50 +1,28 @@
 # Hi, I'm Jayrad Adeva 👋
 
-🎓 **BS Computer Science Student** at UP Mindanao
+🎓 BS Computer Science Student at UP Mindanao
 
-I'm passionate about building software that solves real-world problems, with interests in web development, software engineering, databases, cloud computing, and game development.
+💡 Interested in Web Development, Software Engineering, Cloud Computing, Databases, and Game Development.
 
-## 💻 Areas of Interest
+### 🚀 Projects
 
-* Web Development
-* Software Engineering
-* Database Systems
-* Cloud Computing
-* Game Development
+* Cozy Cafe Ordering & Revenue System
+* Venue Request & Scheduling System
+* UP Mindanao Freshman Guide Website
+* Project LUKE (MyNagaApp Extension)
+* TenantTrack
 
-## 🚀 Featured Projects
+### 🛠 Tech Stack
 
-* **Cozy Cafe Ordering & Revenue System** – Point-of-sale and business analytics platform for a local café.
-* **Venue Request & Scheduling System** – Streamlines venue reservations and schedule management.
-* **UP Mindanao Freshman Guide Website** – A student-focused platform to help freshmen navigate university life.
-* **Project LUKE (MyNagaApp Extension)** – Community-focused application enhancement project.
+HTML • CSS • JavaScript • PHP • MySQL • Java • Python • C/C++ • Flutter • Ren'Py • Git
 
-## 🛠️ Technologies & Tools
+### 📚 Currently Learning
 
-* HTML, CSS, JavaScript
-* PHP, MySQL
-* Java, Python
-* C, C++
-* Flutter
-* Ren'Py
-* Git & GitHub
+Software Architecture • Cloud Computing • Full-Stack Development
 
-## 📚 Currently Learning
+### 📫 Connect
 
-* Software Architecture
-* Cloud Computing
-* Full-Stack Development
+📧 [jayradadevaperfecio@gmail.com](mailto:jayradadevaperfecio@gmail.com)
+💼 LinkedIn: linkedin.com/in/jayrad-adeva-0885ab337
 
-## 🔨 Current Projects
-
-* **Visual Novel** – Story-driven game development using Ren'Py.
-* **TenantTrack** – A rental management system that automates payment tracking and landlord record-keeping.
-
-## 📫 Connect With Me
-
-* Email: **[jayradadevaperfecio@gmail.com](mailto:jayradadevaperfecio@gmail.com)**
-* LinkedIn: **linkedin.com/in/jayrad-adeva-0885ab337**
-
----
-
-> "Building projects, learning continuously, and turning ideas into reality."
+> Building projects and turning ideas into reality.
