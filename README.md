@@ -1,28 +1,39 @@
 # Hi, I'm Jayrad Adeva 👋
 
-🎓 BS Computer Science Student at UP Mindanao
+🎓 **BS Computer Science Student** at UP Mindanao
 
-💡 Interested in Web Development, Software Engineering, Cloud Computing, Databases, and Game Development.
+💡 Interested in **Web Development, Software Engineering, Cloud Computing, Database Systems, and Game Development.**
 
-### 🚀 Projects
+## 🚀 Projects
 
 * Cozy Cafe Ordering & Revenue System
 * Venue Request & Scheduling System
 * UP Mindanao Freshman Guide Website
 * Project LUKE (MyNagaApp Extension)
-* TenantTrack
+* TenantTrack – Landlord Payment Tracking System
 
-### 🛠 Tech Stack
+## 🎮 Current Projects
 
-HTML • CSS • JavaScript • PHP • MySQL • Java • Python • C/C++ • Flutter • Ren'Py • Git
+* **Visual Novel Game** (Ren'Py)
+* **Boarding House Finder & Roommate Matching Platform**
 
-### 📚 Currently Learning
+## 🛠 Tech Stack
 
-Software Architecture • Cloud Computing • Full-Stack Development
+**Languages & Tools:**
+HTML • CSS • JavaScript • PHP • MySQL • Java • Python • C/C++ • Flutter • Ren'Py • Git • GitHub
 
-### 📫 Connect
+## 📚 Currently Learning
 
-📧 [jayradadevaperfecio@gmail.com](mailto:jayradadevaperfecio@gmail.com)
+* Software Architecture
+* Cloud Computing
+* Full-Stack Development
+
+## 📫 Connect
+
+📧 Email: [jayradadevaperfecio@gmail.com](mailto:jayradadevaperfecio@gmail.com)
+
 💼 LinkedIn: linkedin.com/in/jayrad-adeva-0885ab337
+
+---
 
 > Building projects and turning ideas into reality.
